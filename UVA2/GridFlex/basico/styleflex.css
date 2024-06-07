@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titulos {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 30vw;
+    height: auto;
+    margin: 1%;
+    border-radius: 5px;
+}
